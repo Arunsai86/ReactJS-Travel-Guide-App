@@ -1,0 +1,25 @@
+.item-container {
+  list-style-type: none;
+  width: 45%;
+  margin: 5px;
+  background-color: #ffffff;
+  border-radius: 10px;
+}
+.image {
+  width: 100%;
+}
+.description {
+  font-family: 'Roboto';
+  color: #64748b;
+  margin-left: 12px;
+  font-size: 15px;
+  margin-top: 5px;
+  margin-bottom: 15px;
+}
+.name {
+  margin-top: 5px;
+  font-family: 'Roboto';
+  color: #64748b;
+  margin-left: 12px;
+  font-size: 15px;
+}
